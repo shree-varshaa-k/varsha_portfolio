@@ -21,7 +21,7 @@ const Contact = () => {
                 </div>
                 <div className="d-flex align-items-start mb-3">
                   <i className="fas fa-phone contact-icon"></i>
-                  <p className="ps-3">+91 820646813</p>
+                  <p className="ps-3">+91 8220646813</p>
                 </div>
                 <div className="d-flex align-items-start mb-3">
                   <i className="fas fa-envelope contact-icon"></i>
