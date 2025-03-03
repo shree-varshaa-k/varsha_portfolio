@@ -6,19 +6,19 @@ const projects = [
     title: "Enterprise Money Manager ",
     description:
       "Developd a Enterprise Money Manager application using MERN Stack",
-    website: "dfg",
+    website: "https://github.com/shree-varshaa-k/enterprise-money-manager",
   },
   {
     title: "E-commerce",
     description:
       "Built a e-commerce web application using MERN Stack. Published on Netlify for easy access.",
-    github: "dfg",
+    github: "https://github.com/shree-varshaa-k/Edu-cart",
   },
   {
     title: "Chat Application",
     description:
       "Built a chat application using MERN Stack.Search for users to start new conversations. ",
-    github: "dfg",
+    github: "https://github.com/shree-varshaa-k/Chat-Application",
   },
 ];
 
